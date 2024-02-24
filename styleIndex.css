@@ -1,0 +1,346 @@
+link[rel="icon"]{
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.container{
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, sans-serif;   
+    font-size: 20px;
+    
+    
+    .navbar {
+        background-color: #333;
+        overflow: hidden;
+        border-radius: 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+        height: 40px;
+    }
+    
+    .navbar a {
+        float: left;
+        display: block;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+    
+    .navbar a:hover {
+        background-color: #ddd;
+        color: black;
+        border-radius: 20px;
+        transition:  0.5s ease-in-out;
+    }
+    .navbar li {
+        box-shadow: 0 0 10px rgba(0, 255, 0, 0);
+        transition: box-shadow 0.3s ease-in-out; /* Cambia la durata e l'effetto di transizione a tuo piacimento */
+      }
+      
+      .navbar li:hover {
+        box-shadow: 0 0 20px rgba(219, 243, 0, 0.8); /* Cambia i valori a tuo piacimento */
+        border-radius: 20px;
+        transition: 0.5s ease-in-out;
+    }
+    
+    .social-icons {
+        list-style: none;
+        margin: 0;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+        padding: 0;
+        flex: 1;
+        
+    }
+    
+    .social-icons li {
+        display: inline-block;
+        margin-right: 20px;
+    }
+    
+    .social-icons a img {
+        width: 30px;
+        height: 30px;
+    }
+
+    .buttons {
+        list-style: none;
+        margin: 0;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        float: left;
+        flex: 1;
+    }
+    
+    .buttons li {
+        display: inline-block;
+        margin-right: 20px;
+    }
+    
+   
+    
+    .navbar-buttons {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .navbar-buttons li {
+        display: inline-block;
+        margin-right: 20px;
+    }
+    
+    .navbar-buttons a {
+        text-decoration: none;
+        color: white;
+    }
+    
+    .navbar-buttons a:hover {
+        text-decoration: underline;
+    }
+    
+}
+
+
+
+.logo{
+    border-radius: 50%;
+    overflow: hidden;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 60px;
+    max-height: 60px;
+    
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    
+    
+}
+.logo img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.Chi-sono {
+    padding: 20px;
+    text-align: center;
+    
+    
+}
+.nome{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30px;
+    
+    
+}
+.mia-foto {
+    text-align: right;
+    border-radius: 20%;
+    padding: 0,5px;
+    overflow: hidden;
+    width: 300px;
+    height: 300px;
+    float: right;
+    transition: transform 0.3s ease-in-out;
+    margin-right: 150px;
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.75);
+    
+}
+.mia-foto:hover{
+    transform: scale(1.3);   
+}
+.Descrizione {
+    display: inline-block;
+    vertical-align: middle;
+    text-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.75);
+    font-size: 20px;
+    padding: 20px;
+    text-align: justify; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-left: 150px; 
+    margin-right: 150px;
+    padding-right: 50px;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+    
+    
+}
+.immagineProgrammazione{
+    text-align: left;
+   
+    width: 250px;
+    height: 250px;
+    left: 250px;
+    padding: 20px;
+    overflow: hidden;
+    
+    float: left;
+    transition: transform 0.3s ease-in-out;
+    margin-top: 140px;
+    text-align: right;
+    padding: 0,5px;
+    overflow: hidden;
+    margin-left: 150px; 
+    float: left;
+    padding-top: 40px;
+}
+.immagineProgrammazione:hover{
+    transform: scale(1.3);   
+}
+
+
+.titoloProgrammazione{
+    font-size: 30px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+}
+.DescrizioneProgrammazione{
+    font-size: 20px;
+    padding: 20px;
+    text-align: justify; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-left: 200px; 
+    margin-right: 150px;
+    padding-left: 50px;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+}
+.titoloEditing{
+    margin-top: 100px;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 50px;
+    
+    
+    
+}
+.immagineEditing{
+    
+    transition: transform 0.3s ease-in-out;
+    
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    
+}
+.immagineEditing:hover{
+    transform: scale(1.3);
+}
+.DescrizioneEditing{
+    font-size: 20px;
+    padding: 20px;
+    text-align: justify; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-left: 150px; 
+    margin-right: 150px;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+}
+.titoloVideogiochi{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.immagineVideogiochi{
+    text-align: right;
+    overflow: hidden;
+    width: 325px;
+    height: 300px;
+    float: right;
+    transition: transform 0.3s ease-in-out;
+    margin-right: 150px;
+    
+}
+.immagineVideogiochi:hover{
+    transform: scale(1.3);   
+}
+.DescrizioneVideogiochi{
+    font-size: 20px;
+    padding: 20px;
+    text-align: justify; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-left: 150px; 
+    margin-right: 150px;
+    padding-right: 50px;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+}
+.TitoloMusica{
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.immagineMusica{
+    text-align: left;
+    overflow: hidden;
+    
+    float: left;
+    transition: transform 0.3s ease-in-out;
+    margin-left: 150px;
+    border-radius: 50px;
+    
+    object-fit: contain;
+}
+.immagineMusica:hover{
+    transform: scale(1.3);   
+}
+.DescrizioneMusica{
+    font-size: 20px;
+    padding: 20px;
+    text-align: justify; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-left: 200px; 
+    margin-right: 150px;
+    padding-left: 70px;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+.ElencoProgrammazione{
+    transition: transform 0.3s ease-in-out;
+}
+.ElencoProgrammazione:hover{
+    transform: scale(1.3) ;
+}
+.ElencoEditing{
+    transition: transform 0.3s ease-in-out;
+}
+.ElencoEditing:hover{
+    transform: scale(1.3) ;
+}
+.ElencoVideogiochi{
+    transition: transform 0.3s ease-in-out;
+}
+.ElencoVideogiochi:hover{
+    transform: scale(1.3) ;
+}
+.ElencoMusica{
+    transition: transform 0.3s ease-in-out;
+}
+.ElencoMusica:hover{
+    transform: scale(1.3) ;
+}
