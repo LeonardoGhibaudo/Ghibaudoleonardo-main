@@ -1,0 +1,88 @@
+*   [33mcommit fd661af3d4d9ceb699e9e6ea692f160844575ab4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+[31m|[m[32m\[m  Merge: 0a71d7c 178cf43
+[31m|[m [32m|[m Author: Leonardo <leonardoghibaudo.lg@gmail.com>
+[31m|[m [32m|[m Date:   Sat Feb 24 09:42:05 2024 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'main' of https://github.com/LeonardoGhibaudo/Ghibaudoleonardo
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 178cf4346babc8f0612b90878a5060ec1f14afee[m
+[31m|[m [32m|[m Author: LeonardoGhibaudo <157407901+LeonardoGhibaudo@users.noreply.github.com>
+[31m|[m [32m|[m Date:   Tue Jan 30 20:45:03 2024 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Update index.html
+[31m|[m [32m|[m     
+[31m|[m [32m|[m     Updated images
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit f7366fd24077a1b6562a890848df5535ff463e10[m
+[31m|[m [32m|[m Author: LeonardoGhibaudo <157407901+LeonardoGhibaudo@users.noreply.github.com>
+[31m|[m [32m|[m Date:   Tue Jan 30 20:42:51 2024 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Update social.html
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 09023e87f6c66da37754bd588135755fe023eb6f[m
+[31m|[m [32m|[m Author: LeonardoGhibaudo <157407901+LeonardoGhibaudo@users.noreply.github.com>
+[31m|[m [32m|[m Date:   Tue Jan 30 20:41:58 2024 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Update index.html
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 3ce79983af0aded35aba4a8dc0ebcadaff778ab1[m
+[31m|[m [32m|[m Author: LeonardoGhibaudo <157407901+LeonardoGhibaudo@users.noreply.github.com>
+[31m|[m [32m|[m Date:   Tue Jan 30 20:40:53 2024 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Update PC.html
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 3d01c674a58ab11f1d6e38e53c255facf338d2eb[m
+[31m|[m [32m|[m Author: LeonardoGhibaudo <157407901+LeonardoGhibaudo@users.noreply.github.com>
+[31m|[m [32m|[m Date:   Tue Jan 30 20:38:53 2024 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Update social.html
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 032df876c87d41957e116369abea9e1c964e503d[m
+[31m|[m [32m|[m Author: LeonardoGhibaudo <157407901+LeonardoGhibaudo@users.noreply.github.com>
+[31m|[m [32m|[m Date:   Tue Jan 30 20:38:03 2024 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Update index.html
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 1a79f278a61d11e6bb70f5a31ffa67d76dcbc44f[m
+[31m|[m [32m|[m Author: LeonardoGhibaudo <157407901+LeonardoGhibaudo@users.noreply.github.com>
+[31m|[m [32m|[m Date:   Tue Jan 30 20:36:59 2024 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Update PC.html
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit e768087a40a213af0aeba83700f97d86d718f472[m
+[31m|[m [32m|[m Author: LeonardoGhibaudo <157407901+LeonardoGhibaudo@users.noreply.github.com>
+[31m|[m [32m|[m Date:   Tue Jan 30 20:35:44 2024 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Update PC.html
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 6490b6e47be145f5f72cad342553394b3e0670c0[m
+[31m|[m [32m|[m Author: LeonardoGhibaudo <157407901+LeonardoGhibaudo@users.noreply.github.com>
+[31m|[m [32m|[m Date:   Tue Jan 30 20:34:53 2024 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Update social.html
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 26cf468db109c29e541e2e95e2f845017fab2e3c[m
+[31m|[m [32m|[m Author: LeonardoGhibaudo <157407901+LeonardoGhibaudo@users.noreply.github.com>
+[31m|[m [32m|[m Date:   Tue Jan 30 20:33:59 2024 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Update index.html
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 70bd2643443a600f6bff4c979c4d3a300cd27e10[m
+[31m|[m [32m|[m Author: Leonardo <leonardoghibaudo.lg@gmail.com>
+[31m|[m [32m|[m Date:   Tue Jan 30 19:25:39 2024 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Updates to site
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 09ffec89afb99e56214757855bb4b6cc6cc05a25[m
+[31m|[m   Author: Leonardo <leonardoghibaudo.lg@gmail.com>
+[31m|[m   Date:   Tue Jan 30 18:20:56 2024 +0100
+[31m|[m   
+[31m|[m       Updates to Site
+[31m|[m 
+* [33mcommit 0a71d7c0ab0db75e0ba5364174c566b12de9e093[m
+  Author: Leonardo <leonardoghibaudo.lg@gmail.com>
+  Date:   Sat Feb 24 09:38:20 2024 +0100
+  
+      new file:   styleSocial.css
+      
+      
