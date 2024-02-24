@@ -1,6 +1,7 @@
 
         body {
-            background-image: url(images/Background.jpg);
+           background: rgb(36,27,0);
+background: radial-gradient(circle, rgba(36,27,0,1) 0%, rgba(9,121,22,1) 41%, rgba(0,129,255,1) 100%);
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center center;
